@@ -1,0 +1,116 @@
+# Development Document
+
+## Project
+
+-Project name: “FiveNightAtFreddy’s”
+-Course and assignment: CS 120 Development Document 
+-Developer or team: Sihak Svang 
+-Date started: 08-2-2026
+-Technology or language: VB.Net Visual Studio 
+
+# Brief 
+
+### Goal
+
+Write one sentence that explains what you are preparing or building.
+
+I am building a WPF project called “FiveNightAtFreddy’s” and wanted to add a UI interface and two buttons that allow the user to open or close the door to escape from Freddy.  
+
+### User or Player
+
+Who will use or play this project? Anyone who enjoys playing horror games.
+What should they be able to understand and do? They should be able to open and close doors and if you open the door with Freddy’s in it, it’s Game Over. 
+
+### Required deliverables
+
+-[ ] Add each assignment requirement here. Creating VB.Net Visual Studio project name “FiveNightAtFreedy’s”.
+
+-[ ] Mark starred or critical items. Adding three buttons 1.) start game                                                                                                    2.) CLOSEDoor 3.) openDoor
+
+-[ ] Record the submission destination. Everything will be recorded here on the Development Document, and I will be submitting a project into my canvas.
+
+### Story or Context
+
+Explain the world, situation, or real problem that gives the project meaning. You may create a new backstory or adapt one from earlier work when the assignment permits it. This is a horror game, in this type of situation you will choose and have an option between two doors and which every door you choose depends if you live or die by Freddy’s. 
+
+### Product definition 
+
+Describe the smallest complete version you expect to build and test. Adding a Five Night At Freddy’s UI interface and 3 bottom. 
+
+## Reference study and adaptation
+
+What I noticed: I don’t have a UI interface at the moment.
+Keep, Change, or replace? keep  one character, change bonnie for Freddy, replace the UI interface.
+Why? Make it look like a horror UI interface.
+Update needed in my plan: Not at the moment. 
+
+Example: The tutorial begins with a title screen | Keep | The player needs a clear entry point | Add title screen to the screen map |
+
+## Systems and screens
+
+System or screen | Input | Action | Output |
+
+Main menu: UI interface 
+Input: “start game”
+Action: “openDoor”
+Output:”CLOSEDDoor” 
+
+Example: Main menu | Start button | Open the game | Game screen appears |
+
+## Information containers 
+
+-Variable, Property, List, or table: “playerName”
+- Data type:”string” 
+- Purpose:store player name 
+-Example value: “Freddy’s”
+
+Example: playerHealth | Integer | Stores current health | 100 |
+
+## Actions 
+
+Function: IsDoorClosed()
+Procedure:CloseDoor()
+Method, or event:btnCloseDoor_Click
+Purpose:Runs when the close door button is click 
+Input:User click the close door button
+Result:door close and status label updates
+
+Example: CalculateDamage | Calculates attack damage | Attack power | Damage amount | 
+
+## Environment
+
+-Required editor:
+-Required workload or SDK:
+-Project template:
+-Required packages or libraries:
+-Operating system or device:
+-Proof that setup works:
+
+## Assets
+
+Link to the Asset Manifest and list the assets needed for the first working version.
+
+## Milestones 
+
+Mileston:
+Definition of done:
+Target date:
+Status:
+
+Project setup | Empty project runs and is committed | | | 
+
+## Questions and decisions
+
+
+
+Date:
+Question or problem:
+Source used:
+Decision or answer:
+Next action:
+
+## Risks 
+
+List anything that could block the project, including missing tools, unclear requirements, asset permissions, difficult features, or time limits.
+
+
