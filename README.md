@@ -27,8 +27,6 @@ Reference study Notes
 
 Discord preparation post
 
-Asset Manifest
-
 Discord screen shot 
 
 Asset
