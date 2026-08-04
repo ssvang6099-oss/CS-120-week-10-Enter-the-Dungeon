@@ -1,0 +1,37 @@
+# Asset Manifest
+
+Use one row for every image, icon, sound, font, video, dataset, library, or other asset prepared for the project.
+
+Final filename: room-01.png
+Status: Ready
+Asset type: Image
+Source or creator: Sihak Svang 
+Source link:
+License or permission: Original work
+Changes made: Cropped
+Planned use: Main room
+
+## Status choices
+
+ ** Planned: ** You know what is needed, but the final file is not ready.
+**Draft:** A temporary or unfinished version is included.
+**Ready:** The final file is included and may be used in the build.
+
+
+## Rules
+
+-Keep the original source link.
+-Record the license shown when you download the asset.
+-Do not write “free”as the license. Name the actual license or permission.
+-Mark your own work as “Original work.”
+-Store required attribution text in this file and in the final product when the license requires it.
+-Do not use an asset when its permission is unclear.
+
+
+1.) Open Visual Studio
+2.)Select Open a project or solution from the start window.
+3.)Look for the folder name and project saved.
+4.)open project folder src/DungeonGame/ 
+
+
+
