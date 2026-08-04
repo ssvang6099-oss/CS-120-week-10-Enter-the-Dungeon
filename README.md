@@ -5,6 +5,7 @@ while being watched  and attacked by dangerous animatronic characters.
 
 This game focuses on fear and problem solving as the player manages limited resources, and use doors and light to stay alive. 
 
+HOW TO OPEN AND RUN THIS APP
 
 1.) Open Visual Studio
 
