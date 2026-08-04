@@ -1,0 +1,39 @@
+# Reference Study Notes
+
+Use this document when an assignment asks you to study an existing application, game, tutorial, client example, or product before development.
+
+## Reference
+
+-Title: Make Retro Game
+-Link: Youtube
+-Date reviewed: 08-2-2026
+-Why this reference was assigned: To give us a demonstration on creating a VB.NET game application.
+
+## What I noticed
+
+Area | Observation | Why it matters |
+
+Screen or interface: preview.jpg
+User or Player action: singles 
+Data or state:08-2-2026
+Asset or media:
+Code or project structure: Zamel 
+
+## Keep, Change, or replace
+
+Element from the reference | Decision | Reason | Update to my Development Document |
+
+Keep: UI interface 
+Change: colors
+Replace: The ball
+
+## Question to investigate
+
+1. How many breaks can you add in one application?
+2.Why are brakes 7 missing from the tutorial?
+3.Can you code an application without collision detection?
+
+## My revised direction
+
+In one short paragraph, explain how the study changed or confirmed your project plan.
+By laying out a plan and documenting everything before I get started on my application, make it a lot easier to build. I know what I am going to put into my UI interface and know what variable and processor and input and output is needed. By doing this give me a clear picture of how my application is going to run.
