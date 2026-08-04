@@ -9,11 +9,11 @@ HOW TO OPEN AND RUN THIS APP
 
 1.) Open Visual Studio
 
-2.)Select Open a project or solution from the start window.
+2.)Select Open a project WPF or solution from the start window.
 
 3.)Look for the folder name and project saved.
 
-4.)open project folder src/DungeonGame/ 
+4.)open project folder MainWindow
 
 Week 10 Development Document 
 
