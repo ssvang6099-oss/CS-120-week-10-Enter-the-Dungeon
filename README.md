@@ -9,11 +9,13 @@ HOW TO OPEN AND RUN THIS APP
 
 1.) Open Visual Studio
 
-2.)Select Open a project WPF or solution from the start window.
+2.)Select Open a project WPF application or solution from the start window.
 
 3.)Look for the folder name and project saved.
 
 4.)open project folder MainWindow
+
+GRADE REQUIREMENT MAP AND EVIDENCE FILES
 
 Week 10 Development Document 
 
