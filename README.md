@@ -31,4 +31,6 @@ Discord screen shot
 
 Asset
 
+Asset Manifest
+
 WPF Application screenshot 
